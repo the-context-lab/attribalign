@@ -24,7 +24,7 @@ Aron Molnar*, Jaap Jumelet^, Mario Giulianelli^, Arabella Sinclair*
 Table of Contents:
 
 - [Abstract](#abstract)
-- [Cite](#cite)
+- [Citing](#citing)
 - [Contact](#contact)
 - [Usage](#usage)
   - [Experiment Pipeline](#experiment-pipeline)
