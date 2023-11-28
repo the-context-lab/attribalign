@@ -82,7 +82,7 @@ Coming Soon
 * **Analysis:**
   Once all properties have been extracted, the analysis is conducted at the turn-level so that local factors can be explored and compared between human- vs. model-produced utterances.
   * [`combine_properties_for_turn_level_analysis.ipynb`](analysis/scripts/combine_properties_for_turn_level_analysis.ipynb) contains a script to create turn-level dataframes containing all the repetition and attribution properties computed.
-  * [`imspect_samples.ipynb`](analysis/scripts/imspect_samples.ipynb) allows samples to be easily inspected.
+  * [`inspect_samples.ipynb`](analysis/scripts/inspect_samples.ipynb) allows samples to be easily inspected.
 
 
 ## Test Run
