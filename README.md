@@ -52,7 +52,12 @@ We believe that such joint analysis of model production and comprehension behavi
 Please use the following format to cite this work.
 
 ```latex
-Coming Soon
+@inproceedings{molnar2023attribution,
+  title={Attribution and Alignment: {E}ffects of Local Context Repetition on Utterance Production and Comprehension in Dialogue},
+  author={Molnar, Aron and Jumelet, Jaap and Giulianelli, Mario and Sinclair, Arabella},
+  booktitle={Proceedings of the 27th Conference on Computational Natural Language Learning},
+  year={2023}
+}
 ```
 
 
